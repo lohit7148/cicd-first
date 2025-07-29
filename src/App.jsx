@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello klu...</h1>
+      <p>hi bye see you tata tata</p>
     </>
   )
 }
